@@ -2,3 +2,6 @@ dist/
 .vercel/
 node_modules/
 *.log
+
+.vercel
+.env*.local
